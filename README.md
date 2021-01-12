@@ -1,4 +1,4 @@
-# Sell-Anything
+# MainProject-SellAnything
 ER Diagram
 ![](screenshot/1.png)
 Homepage
@@ -16,4 +16,4 @@ User Registration
 Edit Profile
 ![](screenshot/7.png)
           
-# MainProject-SellAnything
+
