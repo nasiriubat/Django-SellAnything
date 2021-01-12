@@ -1,8 +1,8 @@
 # MainProject-SellAnything
 ER Diagram
-![](screenshot/1.png)
-Homepage
 ![](screenshot/erd.jpeg)
+Homepage
+![](screenshot/1.png)
 User Login
 ![](screenshot/2.png)
 Create new Post
